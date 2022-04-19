@@ -1,5 +1,5 @@
-root-title=cGit
-root-desc=My own cGit
+root-title=Deltegui GIT
+root-desc=My cgit instance
 
 virtual-root=/
 scan-path=/data/
