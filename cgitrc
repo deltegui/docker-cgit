@@ -1,0 +1,10 @@
+root-title=cGit
+root-desc=My own cGit
+
+virtual-root=/
+scan-path=/data/
+
+css=/cgit.css
+logo=/cgit.png
+
+robots=noindex, nofollow
